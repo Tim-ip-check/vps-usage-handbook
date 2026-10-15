@@ -2,7 +2,7 @@
 
 VPS 云主机，简单来讲就是通过云计算或虚拟化技术提供给你使用的虚拟服务器。 你可以把它理解成一台放在机房里、可以通过网络远程操作的电脑，不需要自己购买和维护实体服务器。
 
-通过VPS云主机我们可以搭建网站、运行自动化程序、部署代理服务等等，下面我们以[IPDEEP VPS云主机](https://www.ipdeep.cn/vps)为例，为大家讲解一下配置步骤。
+通过VPS云主机我们可以搭建网站、运行自动化程序、部署代理服务等等，下面我们以[IPDEEP VPS云主机](https://www.ipdeep.cn/vps?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)为例，为大家讲解一下配置步骤。
 
 ## 一、Windows操作系统使用说明
 
