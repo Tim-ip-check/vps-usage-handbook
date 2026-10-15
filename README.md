@@ -86,4 +86,4 @@ VPS 云主机，简单来讲就是通过云计算或虚拟化技术提供给你�
 
 5. <span style="color:red;">windows操作系统用户名统一为：administrator  </span>
 
- <span style="color:red;">非windows操作系统用户名统一为：root </span>
+   <span style="color:red;">非windows操作系统用户名统一为：root </span>
