@@ -4,6 +4,8 @@ VPS 云主机，简单来讲就是通过云计算或虚拟化技术提供给你�
 
 通过VPS云主机我们可以搭建网站、运行自动化程序、部署代理服务等等，下面我们以[IPDEEP VPS云主机](https://www.ipdeep.cn/vps?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)为例，为大家讲解一下配置步骤。
 
+## 视频操作步骤请移至最底部查看
+
 ## 一、Windows操作系统使用说明
 
 1.购买后在，已购买vps云主机子页面查看一切配置信息
@@ -87,3 +89,17 @@ VPS 云主机，简单来讲就是通过云计算或虚拟化技术提供给你�
 5. <span style="color:red;">windows操作系统用户名统一为：administrator  </span>
 
    <span style="color:red;">非windows操作系统用户名统一为：root </span>
+
+# 视频操作
+
+## Windows系统系统配置VPS云主机
+
+地址：https://www.youtube.com/watch?v=wul3cOrazV4
+
+## 非windows系统配置VPS云主机
+
+地址：https://www.youtube.com/watch?v=N64Gb7qyD9c
+
+## 系统版本 Ubuntu-3x-UI 操作指南
+
+地址：https://www.youtube.com/watch?v=APXjqaU3dKE
